@@ -1,0 +1,38 @@
+body{
+	background-color:#00b33c;
+	color:black;
+	text-align: left;
+}
+
+.outdoors {
+	text-align: center;
+	border: solid 5px black;
+}
+
+.fishtrip {
+	border: solid 5px white;
+	width: 375px;
+	height: 500px;
+	margin-left: 425px;
+	padding: 10px;
+}
+
+.hiketrip {
+	border: solid 5px white;
+	width: 667px;
+	height: 500px;
+	margin-left: 286px;
+	margin-bottom: 25px;
+	padding: 10px;
+}
+
+#menubar {
+	text-align: center;
+	background-color: #199;
+	font-size: 20pt;
+}
+
+#intro {
+	text-align: center;
+	text-decoration: underline overline;
+}
